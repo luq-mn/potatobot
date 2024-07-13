@@ -2,7 +2,7 @@
 
 > The ultimate All-In-One Discord bot for your server needs
 
-[![Top.gg](https://top.gg/api/widget/status/1226487228914602005.svg)](https://top.gg/bot/1226487228914602005)
+Check PotatoBot out at **[Top.gg](https://top.gg/api/widget/status/1226487228914602005.svg)**
 
 ## Features
 
